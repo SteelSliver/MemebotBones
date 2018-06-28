@@ -1,5 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/191322605876150272/191728124336013314/bones.png">
-# MemebotBones
+<img src="https://cdn.discordapp.com/attachments/191322605876150272/461722050474803210/tones.png">
+# MemebotBones Beta
 
 ## What is MemebotBones?
 MemebotBones is a general purpose Discord bot. It has several general commands as well as some secret server specific commands. Bones is designed to be a NLP bot, which allows commands to be interpreted naturally.
